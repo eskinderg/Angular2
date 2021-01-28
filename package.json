@@ -67,7 +67,7 @@
     "codelyzer": "^4.5.0",
     "compodoc": "0.0.41",
     "d3": "^5.4.0",
-    "electron": "3.0.6",
+    "electron": "9.4.0",
     "electron-builder": "20.29.0",
     "electron-reload": "1.2.5",
     "jasmine-core": "~3.3.0",
